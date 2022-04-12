@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thenilet847
-- 👀 I’m interested in IA and computer vision 
+- 👀 I’m interested in IA and computer vision, but I wanna program any thing.
 - 🌱 I’m currently learning second of Batxillerat
 
 <!---
